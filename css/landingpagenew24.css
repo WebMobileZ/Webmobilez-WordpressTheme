@@ -1,0 +1,512 @@
+/* Srikanth changes for landing pages */
+#mainCont{
+  height: 93px;
+}
+.banner_shap{
+  width: 80%;
+  top: -100px;
+  position: absolute;
+  z-index: -1;
+  vertical-align: middle;
+  border-style: none;
+  right:0;
+
+}
+.payment_footer_area.payment_footer_area_two {
+  padding: 3rem 3rem 0 3rem;
+}
+.footer_top {
+  padding: 0 !important;
+}
+.callUs a {
+  color:  #fff;
+}
+.headingP ul {
+  list-style: none;
+  list-style-type:none;
+}
+.bottom_cont {
+  margin-top: 7rem;
+  background: #533673;
+}
+.call-back {
+  text-align: center;
+  color: #fff;
+}
+/*.call-back h2, .call-back h3, .call-back ul li a {
+  color: #fff;
+}*/
+.call-back h3 {
+  padding-top: 1rem;
+}
+.call-back ul{
+  list-style: none;
+  display: inline-block;
+  width: 100%;
+	text-align: center;
+}
+.call-back li{
+  display: inline-block;
+  padding: 2rem 2rem;
+	font-weight: 400;
+}
+.call-back li i{
+padding: 1rem;
+border-radius: 32px;
+background: #ca3434;
+}
+
+
+.headingP ul li:before {
+  content: "\2714";
+  display: block;
+  color: #418f36;
+  display: inline-block;
+  padding-right: 1rem;
+  border: 1px solid transparent;
+  font-weight: bold;
+  font-size: 1rem;
+}
+.sec_pad_sm {
+  padding: 80px 0;
+}
+.scroll-btn {
+  color: #fff ;
+  background-color: #677294 !important;
+  border-color: #677294 !important;
+  box-shadow: #665cb7 !important;
+}
+.scroll-btn:hover, .scroll-btn:active, .scroll-btn:visited{
+  background-color: #677294 !important;
+  box-shadow: #665cb7 !important;
+}
+.webForm {
+  top: 25%;
+  z-index: 20;
+  margin-right: 0;
+  background-color: #eee;
+  padding: 25px;
+  margin-right: 1rem;
+  right: 0;
+  text-align: left;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  margin-top: 8%;
+}
+.space-around {
+  justify-content: space-around;
+}
+ .prototype_content {
+  width: 100%;
+ }
+ .prototype_content h2 {
+  line-height: 1em !important;
+  text-align: center;
+}
+.headingP{
+  margin-top: 4%;
+}
+.webContent .container {
+  margin-top: 4%;
+}
+.footer_top {
+  border: 0;
+}
+
+.tab_img img {
+  margin-top: 25%
+}
+
+.webForm .md-form {
+  width: 100%;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.md-form input {
+  width: 84%;
+  float: left;
+  margin-left: 0;
+  border-radius: 0;
+  border-top-right-radius: .25rem;
+  border-bottom-right-radius: .25rem;
+  border: 0;
+	height: 45px;
+}
+
+.btn_three {
+  margin-top: 0;
+}
+
+.f_400 .mb_40 {
+  margin: 0;
+}
+
+.f_widget.about-widget .f_list li a:before {
+  color: #665cb7;
+  background: none;
+}
+
+.p_feature_item img {
+  max-height: 280px;
+}
+span.wpcf7-not-valid-tip {
+  /* margin-top: 3rem; */
+}
+
+.md-form i {
+  float: left;
+  display: block;
+  width: 45px;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 34px;
+  color: #fff;
+  background-color: #D94C27;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-top-left-radius: .25rem;
+  border-bottom-left-radius: .25rem;
+  margin-top: -1px
+}
+
+.md-form i.fa-phone {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: .25rem;
+  border-bottom-right-radius: .25rem;
+
+}
+
+.footer_three .footer_top .f_widget.about-widget .f_list li a:hover {
+  color: black;
+}
+
+.hosting_service_item {
+  padding: 26px 40px;
+}
+
+.hosting_service_item .icon {
+  width: 27%;
+  margin: 2rem 0 2rem 0;
+}
+
+.hosting_service_item .icon img {
+  height: 100%;
+  width: 100%
+}
+
+.footer_three .footer_top {
+  background-color: #fff;
+}
+
+.footer_three .footer_top p {
+  color: black;
+}
+
+.footer_three .footer_top .f-title,
+.footer_three .footer_top .f_widget.about-widget .f_list li a {
+  color: black;
+}
+
+.footer_nine_bottom .flag_selector .flag-icon {
+  float: none;
+}
+
+.payment_footer_area {
+  background: #fff;
+}
+
+.payment_footer_area_two {
+  padding: 100px 0px;
+}
+
+.quote_form .md-form {
+  width: 90%;
+  margin: 1em;
+  display: inline-block;
+}
+
+.quote_form {
+  position: absolute;
+  top: 25%;
+  z-index: 20;
+  background-color: #fff;
+  width: 40%;
+  padding: 25px;
+  margin-right: 1rem;
+  right: 0;
+  text-align: left;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+
+.social_icons .social_icons_desktop {
+  display: none;
+}
+
+.social_icons {
+  display: none;
+}
+
+.social_icons {
+  position: fixed;
+  bottom: 12%;
+/*  margin-left: -1rem;*/
+  width: 10%;
+  z-index: 5;
+  text-align: center;
+}
+
+.social_icons_right {
+  position: fixed;
+  bottom: 50%;
+  margin-left: 15px;
+  width: 10%;
+  z-index: 5;
+  text-align: center;
+}
+
+.social_icons a,
+.social_icons_right a {
+  font-size: 33px;
+  padding: 10px;
+  width: 100%;
+  display: inline-block;
+}
+
+.fa-facebook-f {
+  color: #3b5998;
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
+
+.fa-whatsapp {
+  color: #25D366;
+}
+
+.fa-linkedin {
+  color: #0976b4;
+}
+
+.fa-instagram {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #d6249f 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #d6249f 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.separator {
+  display: none;
+}
+
+.fa-yelp {
+  color: #af0606;
+}
+
+.fa-phone {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.scroll-top {
+  width: 70px;
+  height: 70px;
+  position: fixed;
+  bottom: 25px;
+  left: 0;
+  display: none;
+  z-index: 20;
+}
+
+.scroll-top i {
+  display: inline-block;
+  color: #fff;
+}
+/* ---- reset ---- */
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #8c878752;
+}
+
+
+@media screen and (max-width: 900px) and (min-width: 320px) {
+  .banner_shap {
+    width: auto;
+    top: 0;
+    max-width: 100%;
+  }
+  #mainCont{
+    height: 69px;
+  }
+  .call-back li{
+    padding: 1rem 1rem;
+  }
+  .callUs {
+    display: none;
+  }
+  .webContent .container {
+    margin-top: 12%;
+  }
+  .quote_form {
+    width: 100%;
+    top: auto;
+    margin: auto;
+  }
+
+  .quote_form .md-form {
+    width: 100%;
+  }
+
+  .social_icons {
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    align-content: space-around;
+  }
+
+  .social_icons a {
+    display: inline;
+  }
+
+  .social_icons .social_icons_mobile {
+    display: inline;
+  }
+
+  .social_icons .social_icons_desktop {
+    display: none;
+  }
+
+  .webForm {
+    margin-right: 0;
+    border: 2px solid #D94C27;
+    padding: 25px 20px 25px 20px;
+  }
+
+  .webForm .md-form {
+    width: 100%;
+    margin: 1em;
+    display: inline-block;
+    margin: 1em 0 1em 0;
+  }
+
+  .md-form input {
+    width: 84%;
+  }
+
+  .md-form i {
+    padding: 0.72rem;
+  }
+
+  .form-control {
+    padding: 0.7rem 0 0.7rem 0.7rem;
+  }
+
+  .quote_form {
+    width: 100%;
+    top: auto;
+    margin: auto;
+  }
+
+  .quote_form .md-form {
+    width: 100%;
+  }
+
+  .fa-whatsapp {
+    color: #25D366;
+    font-size: 24px;
+  }
+
+  .fa-facebook {
+    font-size: 33px;
+  }
+
+  .fa-linkedin,
+  .fa-yelp,
+  .fa-instagram {
+    margin-top: 5px;
+  }
+
+  .social_icons {
+    width: 100%;
+    bottom: 0;
+    background-color: #677294;
+    /*#25D366;*/
+    display: flex;
+    align-content: space-around;
+  }
+
+  .social_icons a {
+    display: inline;
+  }
+
+  .separator {
+    color: #fff;
+    font-size: 35px;
+    padding-top: 4%;
+    display: inline;
+  }
+
+  .social_icons .social_icons_mobile {
+    display: inline;
+    text-decoration: none;
+    color: #fff;
+    padding-top: 3%;
+    font-size: 20px;
+  }
+
+  .scroll-top {
+    bottom: 20%;
+    width: 50px;
+    height: 50px;
+    left: 0;
+  }
+  .prototype_content {
+    width: 100%;
+  }
+  .prototype_content h2 {
+    line-height: 1em !important;
+    text-align: center;
+  }
+  .prototype_content p {
+    line-height: 1.4rem;
+  }
+
+  .mb_20 {
+    margin-bottom: 17px;
+  }
+
+  .mb_40 {
+    margin-bottom: 12px;
+  }
+
+  .text-webmobilez {
+    font-size: 1rem;
+  }
+
+  .webForm h5 {
+    font-size: 0.8rem;
+  }
+}
+
+.webContent {
+  /* background: #fbfbfd; need to be revoked*/ 
+  padding-top: 75px;
+  /* position: relative; */
+  z-index: 0;
+  overflow: hidden;
+}
+
